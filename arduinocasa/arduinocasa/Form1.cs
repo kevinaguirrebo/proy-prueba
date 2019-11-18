@@ -15,6 +15,7 @@ namespace arduinocasa
         public Form1()
         {
             InitializeComponent();
+            //Deberias subir un proyecto que funcione
         }
     }
 }
